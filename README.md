@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @luizzeduardo
 - 👀 I’m interested in learn coding
-- 🌱 I’m currently learning more about Python
+- 🌱 I’m currently learning more about Python, Java, HTML, CSS, JavaScript.
 - 📫 How to reach me: le_miranda@id.uff.br
